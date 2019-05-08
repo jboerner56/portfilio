@@ -18,7 +18,10 @@
     flex-direction: row;
     text-align: center;
 }
-.contact-form{
+/* .contact-me {
+    display: flex;
+} */
+/* .contact-form{
     background-color: #f8f9fa;
 }
 .contact-form .contact-me {
@@ -34,4 +37,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+} */
+#about {
+    padding-bottom: 4rem;
+}
+.contact-me {
+    text-align: center;
+    color: #f8f9fa;
 }
