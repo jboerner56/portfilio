@@ -18,3 +18,20 @@
     flex-direction: row;
     text-align: center;
 }
+.contact-form{
+    background-color: #f8f9fa;
+}
+.contact-form .contact-me {
+    color: #64a19d;
+
+}
+
+.contact-form .send-button {
+    display: flex;
+    flex-direction: column;
+}
+.mb-4 .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
