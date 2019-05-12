@@ -6,8 +6,8 @@
 #mainNav .navbar-toggler {
     font-size: 80%;
     padding: .75rem;
-    color: #64a19d;
-    border: 1px solid #64a19d
+    color: darkslategray;
+    border: 1px solid #000000
 }
 
 #mainNav .navbar-toggler:focus {
@@ -239,8 +239,10 @@
     }
 
     .contact-section {
-        padding: 5rem 0 0
-    }
+        padding: 5rem 0 0;
+        background: linear-gradient(to bottom, #161616 0, rgba(22, 22, 22, .9) 75%, rgba(22, 22, 22, .8) 100%);
+}
+    
 
     .contact-section .card {
         border: 0;
@@ -340,4 +342,10 @@ footer {
 .contact-me {
     text-align: center;
     color: #f8f9fa;
+}
+#about .profile-picture {
+    width: 250px;
+    height: 230px;
+    border-radius: 75%;
+
 }
