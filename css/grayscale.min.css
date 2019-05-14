@@ -312,7 +312,7 @@ b.bg-black {
 
 footer {
     padding: 3rem 0;
-    background: rgb(80, 80, 80)
+    /* background: rgb(80, 80, 80) */
 }
 
 .skills-section #icon-body {
